@@ -1,0 +1,80 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "text": "What is the primary library used for building user interfaces in React?",
+      "options": [
+        "Node.js",
+        "JSX",
+        "HTML",
+        "ReactDOM"
+      ],
+      "correctAnswer": "ReactDOM"
+    },
+    {
+      "id": "2",
+      "text": "Which hook is used for side effects in functional components?",
+      "options": [
+        "useState",
+        "useContext",
+        "useEffect",
+        "useReducer"
+      ],
+      "correctAnswer": "useEffect"
+    },
+    {
+      "id": "3",
+      "text": "What does 'JSX' stand for?",
+      "options": [
+        "JavaScript XML",
+        "JSON Extension",
+        "Java Syntax Extension",
+        "JavaScript XHR"
+      ],
+      "correctAnswer": "JavaScript XML"
+    },
+    {
+      "id": "4",
+      "text": "In React, how do you handle state in a functional component?",
+      "options": [
+        "this.state",
+        "useState hook",
+        "setState method",
+        "constructor"
+      ],
+      "correctAnswer": "useState hook"
+    },
+    {
+      "id": "5",
+      "text": "What is the correct way to pass a function as a prop?",
+      "options": [
+        "<Component fn={myFunc()} />",
+        "<Component fn={myFunc} />",
+        "<Component fn: myFunc />",
+        "<Component function={myFunc} />"
+      ],
+      "correctAnswer": "<Component fn={myFunc} />"
+    }
+  ],
+  "results": [
+    {
+      "id": "0710",
+      "name": "sravan",
+      "score": 2,
+      "total": 5
+    },
+    {
+      "id": "0f50",
+      "name": "yuva kiran",
+      "score": 2,
+      "total": 5
+    },
+    {
+      "id": "2d0a",
+      "name": "sravan",
+      "score": 2,
+      "total": 5
+    }
+  ],
+  "feedback": []
+}
